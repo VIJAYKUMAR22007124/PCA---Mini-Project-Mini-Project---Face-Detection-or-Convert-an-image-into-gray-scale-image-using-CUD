@@ -14,6 +14,12 @@ Copy the resulting grayscale image data from the GPU back to the CPU.<br>
 Save the grayscale image using the stb_image_write library.<br>
 Clean up allocated memory.<br>
 
+```
+NAME : B VIJAY KUMAR
+REG.NO : 212222230173
+```
+
+
 ## Program :
 
 ```
